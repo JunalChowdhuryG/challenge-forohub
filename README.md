@@ -49,28 +49,28 @@ En resumen, nuestro objetivo con este challenge es implementar una API REST con 
 ## Ejecución de la aplicación
 **1. Loguear usuario.**
 
-<!--![](/assets/ImgLogUser.png)-->
+![](/assets/ImgLogUser.png)
 
 **2. Mostrar usuario logueado.**
 
-<!--![](/assets/ImgObtenerUsuario.png)-->
+![](/assets/ImgObtenerUsuario.png)
 
 **3. Agregar topico.**
 
-<!--![](/assets/ImgAgregarTopicos.png)-->
+![](/assets/ImgAgregarTopicos.png)
 
 **4. Mostrar todos los topicos.**
 
-<!--![](/assets/ImgMostrarTopicos.png)-->
+![](/assets/ImgMostrarTopicos.png)
 
 **5. Mostrar topico por id.**
 
-<!--![](/assets/ImgMostrarTopcioId.png)-->
+![](/assets/ImgMostrarTopcioId.png)
 
 **6. Actualizar topico.**
 
-<!--![](/assets/ImgAcutualizarTopico.png)-->
+![](/assets/ImgAcutualizarTopico.png)
 
 **7. Eliminar topico.**
 
-<!--![](/assets/ImgEliminarTopico.png)-->
+![](/assets/ImgEliminarTopico.png)
